@@ -1,9 +1,7 @@
 What is the overall trend in transaction amounts over the past 100 days?
 
 
-
 Which payment method is most preferred by customers, and how does it affect transaction amounts?
-
 
 What is the average transaction amount for each product category, and which category generates the highest revenue?
 
@@ -26,14 +24,11 @@ How does the day of the week affect transaction volumes and amounts?
 
 What is the distribution of transaction amounts, and are there any outliers?
 
-
 How does the product category influence customer feedback?
-
 
 What is the relationship between transaction amounts and customer feedback?
 
 Which customers have the highest transaction amounts, and what are their common characteristics?
-
 
 What is the impact of store location on the effectiveness of promotions?
 
