@@ -1,6 +1,5 @@
 What is the overall trend in transaction amounts over the past 100 days?
 
-mgasa
 
 Which payment method is most preferred by customers, and how does it affect transaction amounts?
 
