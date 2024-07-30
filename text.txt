@@ -5,9 +5,7 @@ Which payment method is most preferred by customers, and how does it affect tran
 
 What is the average transaction amount for each product category, and which category generates the highest revenue?
 
-
 How does customer feedback vary across different store locations?
-
 
 What is the average age of customers, and does age influence transaction amounts?
 
