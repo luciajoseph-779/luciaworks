@@ -1,0 +1,36 @@
+What is the overall trend in transaction amounts over the past 100 days?
+
+mgasa
+
+Which payment method is most preferred by customers, and how does it affect transaction amounts?
+
+What is the average transaction amount for each product category, and which category generates the highest revenue?
+
+
+How does customer feedback vary across different store locations?
+
+
+What is the average age of customers, and does age influence transaction amounts?
+
+
+Which store location generates the highest sales, and what are the contributing factors?
+
+
+How often are promotions applied, and what is their impact on transaction amounts and customer feedback?
+
+What is the customer churn rate, and which factors are most indicative of potential churn?
+
+
+How does the day of the week affect transaction volumes and amounts?
+
+What is the distribution of transaction amounts, and are there any outliers?
+
+How does the product category influence customer feedback?
+
+What is the relationship between transaction amounts and customer feedback?
+
+Which customers have the highest transaction amounts, and what are their common characteristics?
+
+What is the impact of store location on the effectiveness of promotions?
+
+How does customer feedback impact repeat transactions and customer loyalty?
